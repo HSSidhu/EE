@@ -46,7 +46,6 @@ def step_impl(context, First_Name, Surname, Price, deppaid):
 @then("Application works fine")
 def step_impl(context):
     print("users created successfully")
-    pass
 
 
 @then("I am able to delete the details (?P<First_Name>.+) (?P<Surname>.+) (?P<Price>.+)")
