@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206e47aa-5327-46b8-a266-a208f1f7205a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/EE/environment.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/POM/helpers.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/EE/EEFeature.feature" afterPath="$PROJECT_DIR$/EE/EEFeature-UserCreation.feature" />
+      <change beforePath="$PROJECT_DIR$/EE/EEFeature-UserCreation.feature" afterPath="$PROJECT_DIR$/EE/EEFeature-UserCreation.feature" />
+      <change beforePath="$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature" afterPath="$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature" />
       <change beforePath="$PROJECT_DIR$/EE/steps/EEFeature.py" afterPath="$PROJECT_DIR$/EE/steps/EEFeature.py" />
-      <change beforePath="$PROJECT_DIR$/POM/AutomationDriver.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/POM/bookingpage.py" afterPath="$PROJECT_DIR$/POM/bookingpage.py" />
-      <change beforePath="$PROJECT_DIR$/out/production/EEWork/EEFeature.feature" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,29 +20,27 @@
     <SUITE FILE_PATH="coverage/EEAutomation$TRY.coverage" NAME="TRY Coverage Results" MODIFIED="1517563397600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EE" />
     <SUITE FILE_PATH="coverage/EEAutomation$Unittests_in_EEWebsite_py.coverage" NAME="Unittests in EEWebsite.py Coverage Results" MODIFIED="1517393808124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EEAutomation$EEFeature_feature.coverage" NAME="EEFeature.feature Coverage Results" MODIFIED="1517567854964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/EEAutomation$EEFeature_UserDeletion_feature.coverage" NAME="EEFeature-UserDeletion.feature Coverage Results" MODIFIED="1517572799419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/EEAutomation$EEFeature_UserCreation_feature.coverage" NAME="EEFeature-UserCreation.feature Coverage Results" MODIFIED="1517572632421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/EEAutomation$EEFeature_UserDeletion_feature.coverage" NAME="EEFeature-UserDeletion.feature Coverage Results" MODIFIED="1517576784586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/EEAutomation$EEFeature_UserCreation_feature.coverage" NAME="EEFeature-UserCreation.feature Coverage Results" MODIFIED="1517580451335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="EEFeature-UserCreation.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EE/EEFeature-UserCreation.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="221">
+              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helpers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/POM/helpers.py">
+      <file leaf-file-name="EEFeature-UserDeletion.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="e#1#47#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,8 +48,8 @@
       <file leaf-file-name="EEFeature.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EE/steps/EEFeature.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="79">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -66,21 +60,11 @@
       <file leaf-file-name="bookingpage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/POM/bookingpage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <state relative-caret-position="239">
+              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="70" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EEFeature-UserDeletion.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -121,10 +105,10 @@
         <option value="$PROJECT_DIR$/EE/EEFeature.feature" />
         <option value="$PROJECT_DIR$/EE/env.py" />
         <option value="$PROJECT_DIR$/POM/AutomationDriver.py" />
-        <option value="$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature" />
-        <option value="$PROJECT_DIR$/EE/EEFeature-UserCreation.feature" />
         <option value="$PROJECT_DIR$/EE/environment.py" />
         <option value="$PROJECT_DIR$/POM/helpers.py" />
+        <option value="$PROJECT_DIR$/EE/EEFeature-UserCreation.feature" />
+        <option value="$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature" />
         <option value="$PROJECT_DIR$/EE/steps/EEFeature.py" />
         <option value="$PROJECT_DIR$/POM/bookingpage.py" />
       </list>
@@ -224,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Behave.EEFeature-UserDeletion.feature">
+  <component name="RunManager" selected="Behave.EEFeature-UserCreation.feature">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -804,8 +788,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Behave.EEFeature-UserDeletion.feature" />
-        <item index="1" class="java.lang.String" itemvalue="Behave.EEFeature-UserCreation.feature" />
+        <item index="0" class="java.lang.String" itemvalue="Behave.EEFeature-UserCreation.feature" />
+        <item index="1" class="java.lang.String" itemvalue="Behave.EEFeature-UserDeletion.feature" />
         <item index="2" class="java.lang.String" itemvalue="Behave.EEFeature.feature" />
         <item index="3" class="java.lang.String" itemvalue="Python.TRY" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in EEWebsite.py" />
@@ -838,7 +822,7 @@
       <workItem from="1517474257896" duration="375000" />
       <workItem from="1517485483223" duration="3646000" />
       <workItem from="1517562921242" duration="6481000" />
-      <workItem from="1517569913675" duration="3686000" />
+      <workItem from="1517569913675" duration="8816000" />
     </task>
     <task id="LOCAL-00001" summary="Cleanup">
       <created>1517564940454</created>
@@ -847,7 +831,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517564940454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updates">
+      <created>1517574925614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517574925614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -872,22 +863,21 @@
     <history-entry file="EEFeature-UserCreation_feature - 2018.02.02 at 11h 59m 46s.xml">
       <configuration name="EEFeature-UserCreation.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="EEFeature-UserDeletion_feature - 2018.02.02 at 11h 25m 52s.xml">
-      <configuration name="EEFeature-UserDeletion.feature" configurationId="PyBehaveRunConfigurationType" />
-    </history-entry>
-    <history-entry file="EEFeature-UserDeletion_feature - 2018.02.02 at 11h 27m 09s.xml">
-      <configuration name="EEFeature-UserDeletion.feature" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="EEFeature-UserCreation_feature - 2018.02.02 at 15h 48m 28s.xml">
+      <configuration name="EEFeature-UserCreation.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
     <history-entry file="EEFeature-UserDeletion_feature - 2018.02.02 at 12h 00m 58s.xml">
       <configuration name="EEFeature-UserDeletion.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
+    <history-entry file="EEFeature-UserDeletion_feature - 2018.02.02 at 13h 06m 52s.xml">
+      <configuration name="EEFeature-UserDeletion.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63443000" />
+    <option name="totallyTimeSpent" value="68573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -896,19 +886,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18196996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47078463" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54285717" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17549168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28290468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12687813" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37562606" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -932,23 +922,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleanup" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/POM/bookingpage.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/EE/steps/EEFeature.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="46" />
+          <line>20</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="47" />
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1307,34 +1293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EE/steps/EEFeature.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/POM/bookingpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/POM/helpers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1345,10 +1303,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EE/steps/EEFeature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/bookingpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EE/EEFeature-UserDeletion.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/EE/EEFeature-UserCreation.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="221">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
           <folding />
         </state>
       </provider>

@@ -1,4 +1,4 @@
-# Created by SIDHU at 02/02/2018
+# Created by HArwinder at 02/02/2018
 Feature: Hotel booking Regression scripts
 
   Scenario Outline: Successfully delete the booking
@@ -7,8 +7,4 @@ Feature: Hotel booking Regression scripts
 
     Examples: Bookin Out
       | First_Name | Surname | Price |
-      | Test1      | User    | 120   |
-      | Test2      | User    | 120   |
-      | Test3      | User    | 120   |
-      | Test4      | User    | 120   |
       | Test5      | User    | 120   |

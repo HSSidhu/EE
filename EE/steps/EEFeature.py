@@ -1,6 +1,6 @@
 from behave import *
 from POM.bookingpage import bookingpage
-from helpers import helpers
+from POM.helpers import helpers
 
 step_matcher("re")
 

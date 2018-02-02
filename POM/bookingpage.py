@@ -46,9 +46,10 @@ class bookingpage(object):
     def deleterows(self, First_Name, Surname, Price):
 
         table= self.driver.find_element_by_id("bookings")
-        # rows = table.find_elements_by_class_name("row")
+        rows = table.find_elements_by_class_name("row")
         # print("\n" +"Total Elements  = " + str(len(rows)) + "\n")
-        for row in table.find_elements_by_class_name("row") :
+        # for row in table.find_elements_by_class_name("row") :
+        for row in rows:
             first_name = row.text.split("\n")[0]
             surname = row.text.split("\n")[1]
             price = row.text.split("\n")[2]
