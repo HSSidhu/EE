@@ -34,11 +34,22 @@ def step_impl(context, First_Name, Surname, Price, deppaid):
 
 @then("Application works fine")
 def step_impl(context):
+
+    driver = context.browser
+    pagewait = helpers(driver)
+    pagewait.wait_for_page()
     print("users created successfully")
 
 @then("I am able to delete the details (?P<First_Name>.+) (?P<Surname>.+) (?P<Price>.+)")
 def step_impl(context, First_Name, Surname, Price):
     driver = context.browser
+
+    pagewait = helpers(driver)
+    pagewait.wait_for_page()
+
     booking = bookingpage(driver)
     booking.checkpageload()
     booking.deleterows(First_Name, Surname, Price)
+
+    pagewait = helpers(driver)
+    pagewait.wait_for_page()

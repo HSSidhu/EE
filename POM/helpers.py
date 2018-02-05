@@ -1,5 +1,7 @@
-
+from selenium.webdriver.support import ui
 from datetime import date, datetime, timedelta
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 import arrow as arrow
 
 class helpers(object):
@@ -16,3 +18,12 @@ class helpers(object):
         checoutdate = datetime.strftime(date3, "%Y-%m-%d")
 
         return(checkindate,checoutdate)
+
+
+    def wait_for_page(self):
+        try:
+            ui.WebDriverWait(self.driver, 10, poll_frequency=0.1).until(
+                EC.visibility_of_element_located((By.XPATH, "Dummy timeout")))
+        except Exception as e:
+            print("....waiting for page to load")
+        print("wait no longer needed")
